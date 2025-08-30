@@ -1,2 +1,66 @@
-# Projeto-Programa-o-Funcional---Lambda
-Programação Funcional - Lambda
+# 🐍 Atividade Parcial - Programação Funcional
+
+Este repositório contém a implementação da **Atividade Parcial N704.25.2 - Programação Funcional**.
+
+## 📌 Objetivo
+Aplicar os conceitos de **Programação Funcional** em Python, desenvolvendo um software que utiliza:
+- Funções **lambda**  
+- **List comprehensions**  
+- **Closures**  
+- **Funções de alta ordem**  
+
+## 👩‍💻 Equipe
+Millene Júnior – Responsável pela documentação de requisitos, execução da primeira fase de implementação, realização dos primeiros testes e elaboração do relatório final.
+
+Herison Daniel – Responsável pela segunda fase de implementação, garantindo a integração das funcionalidades desenvolvidas.
+
+Talles de Lima – Responsável pela terceira fase de implementação, focando na codificação e ajustes finais das funcionalidades.
+
+João Eduardo – Responsável pela segunda fase de testes, verificando a qualidade e o funcionamento das implementações. 
+
+## ⚙️ Requisitos Funcionais
+1. O sistema deve calcular estatísticas de uma lista de números (soma, média, máximo e mínimo).  
+2. O sistema deve permitir o uso de filtros personalizados em listas.  
+3. O sistema deve utilizar funções anônimas (lambda).  
+4. O sistema deve manter um histórico de cálculos (closure).  
+
+## 🚫 Requisitos Não Funcionais
+- O sistema deve ser desenvolvido em **Python 3.8+**.  
+- O código deve ser publicado em um **repositório GitHub**.  
+- O sistema não deve apresentar erros em tempo de execução.  
+
+## 🧩 Estrutura do Código
+- `sum_list` → Soma de números (**lambda + reduce**)  
+- `avg_list` → Média dos números (**lambda**)  
+- `max_list` → Maior valor (**lambda + reduce**)  
+- `min_list` → Menor valor (**lambda + reduce**)  
+- `apply_filter` → Função de alta ordem para filtros  
+- `history_tracker` → Closure que guarda histórico  
+
+## 🧪 Casos de Teste
+| Caso | Entrada | Saída Esperada |
+|------|---------|----------------|
+| Soma | [1, 2, 3] | 6 |
+| Média | [2, 4, 6] | 4 |
+| Máximo | [2, 5, 1] | 5 |
+| Mínimo | [2, 5, 1] | 1 |
+| Filtrar pares | [1, 2, 3, 4] | [2, 4] |
+| Histórico | Último cálculo: média = 4 | Retornar string |
+
+## ▶️ Execução
+```bash
+python main.py
+```
+
+Saída esperada:
+```
+Soma: 21
+Média: 3.5
+Máximo: 6
+Mínimo: 1
+Pares: [2, 4, 6]
+Histórico: Último cálculo foi a média = 3.5
+```
+
+## 🤖 Observação
+Parte do desenvolvimento contou com apoio do **ChatGPT**, usado para estruturar o documento de requisitos, gerar exemplos de código e elaborar este relatório. Todas as respostas foram adaptadas pela equipe.
