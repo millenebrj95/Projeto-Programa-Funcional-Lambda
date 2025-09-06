@@ -7,9 +7,15 @@ Aplicar os conceitos de **Programação Funcional** em Python, desenvolvendo um 
 - Funções **lambda**  
 - **List comprehensions**  
 - **Closures**  
-- **Funções de alta ordem**  
+- **Funções de alta ordem**
 
-## 👩‍💻 Equipe
+## 👩‍💻 Membros da Equipe:
+Millene de Souza Júnior – 2326165 
+Herison Daniel Wanderley – 2315221
+Talles de Lima Pereira – 2326201
+João Eduardo Lúcio Araújo – 291356
+
+## 👩‍💻 Atribuição de funções:
 Millene Júnior – Responsável pela documentação de requisitos, execução da primeira fase de implementação, realização dos primeiros testes e elaboração do relatório final.
 
 Herison Daniel – Responsável pela segunda fase de implementação, garantindo a integração das funcionalidades desenvolvidas.
