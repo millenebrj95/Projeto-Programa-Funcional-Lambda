@@ -10,10 +10,10 @@ Aplicar os conceitos de **Programação Funcional** em Python, desenvolvendo um 
 - **Funções de alta ordem**
 
 ## 👩‍💻 Membros da Equipe:
-Millene de Souza Júnior – 2326165 
-Herison Daniel Wanderley – 2315221
-Talles de Lima Pereira – 2326201
-João Eduardo Lúcio Araújo – 291356
+- Millene de Souza Júnior – 2326165 
+- Herison Daniel Wanderley – 2315221
+- Talles de Lima Pereira – 2326201
+- João Eduardo Lúcio Araújo – 291356
 
 ## 👩‍💻 Atribuição de funções:
 Millene Júnior – Responsável pela documentação de requisitos, execução da primeira fase de implementação, realização dos primeiros testes e elaboração do relatório final.
