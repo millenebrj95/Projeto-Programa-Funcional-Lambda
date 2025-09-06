@@ -73,6 +73,7 @@ Parte do desenvolvimento contou com apoio do **ChatGPT**, usado para estruturar 
 
 ## 🚀 Como executar o projeto
 Para executar o projeto, siga os passos abaixo:
+
 Pré-requisitos
 - Python 3.8+ instalado
 - (Opcional) Git instalado para clonar o repositório
