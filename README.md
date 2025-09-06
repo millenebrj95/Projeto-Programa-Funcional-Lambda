@@ -108,6 +108,7 @@ python main.py
 ```
 
 ## 🚀 Exemplos de teste no Python:
+```bash
 from main import sum_list, avg_list, max_list, min_list, apply_filter, history_tracker
 
 print(sum_list([1, 2, 3, 4]))                  # 10
@@ -119,6 +120,7 @@ print(apply_filter([1, 2, 3, 4], lambda x: x % 2 == 0))  # [2, 4]
 history = history_tracker()
 print(history("Primeira execução"))            # Primeira execução
 print(history("Segunda execução"))             # Segunda execução
+```
 
 
 
