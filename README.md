@@ -1,4 +1,4 @@
-<img width="782" height="99" alt="image" src="https://github.com/user-attachments/assets/d36c0bf4-3727-48d8-889a-f45f3bf4970d" /># 🐍 Atividade Parcial - Programação Funcional
+# 🐍 Atividade Parcial - Programação Funcional
 
 Este repositório contém a implementação da **Atividade Parcial N704.25.2 - Programação Funcional**.
 
