@@ -72,30 +72,36 @@ Histórico: Último cálculo foi a média = 3.5
 Parte do desenvolvimento contou com apoio do **ChatGPT**, usado para estruturar o documento de requisitos, gerar exemplos de código e elaborar este relatório. Todas as respostas foram adaptadas pela equipe.
 
 ## 🚀 Como executar o projeto
-1. Pré-requisitos
-Python 3.8+ instalado (download aqui)
-Git instalado (opcional)
+Para executar o projeto, siga os passos abaixo:
+Pré-requisitos
+- Python 3.8+ instalado
+- (Opcional) Git instalado para clonar o repositório
 
-2. Clonar ou baixar o projeto
+Passos de execução:
+
+1. Clonar o repositório:
+<img width="632" height="66" alt="image" src="https://github.com/user-attachments/assets/429eca42-af71-4c10-ae7e-140ec6fcab21" />
 git clone https://github.com/millenebrj95/Projeto-Programa-Funcional-Lambda.git
+Ou baixar o projeto em formato .zip e extrair no computador.
 
-3. Acessar a pasta do projeto
+2. Acessar a pasta do projeto:
+<img width="642" height="71" alt="image" src="https://github.com/user-attachments/assets/6c7a1958-0b5d-421b-9df4-02aafe1af3c8" />
 cd Projeto-Programa-Funcional-Lambda-main
 
-4. Criar ambiente virtual (opcional)
+3. (Opcional) Criar e ativar ambiente virtual:
+<img width="647" height="73" alt="image" src="https://github.com/user-attachments/assets/56991a70-3c38-4d82-baad-a88acb3ccafc" />
 python -m venv venv
+- Windows: venv\Scripts\activate
+- Linux/Mac: source venv/bin/activate
 
-Ativar:
-Windows: venv\Scripts\activate
-Linux/Mac: source venv/bin/activate
-
-5. Instalar dependências
+4. Instalar dependências:
+<img width="643" height="76" alt="image" src="https://github.com/user-attachments/assets/e3cc92cb-c71d-4e5c-bef4-010639d8544f" />
 pip install -r requirements.txt
 
-6. Executar o programa
-python main.py
+5. Executar o programa:
+<img width="645" height="73" alt="image" src="https://github.com/user-attachments/assets/5e571a74-37a5-4e6c-9ac3-5ee3b81a99bf" />
 
-7. Testar manualmente no Python
+## 🚀 Exemplos de teste no Python:
 from main import sum_list, avg_list, max_list, min_list, apply_filter, history_tracker
 
 print(sum_list([1, 2, 3, 4]))                  # 10
@@ -107,6 +113,12 @@ print(apply_filter([1, 2, 3, 4], lambda x: x % 2 == 0))  # [2, 4]
 history = history_tracker()
 print(history("Primeira execução"))            # Primeira execução
 print(history("Segunda execução"))             # Segunda execução
+
+
+
+
+
+
 
 
 
