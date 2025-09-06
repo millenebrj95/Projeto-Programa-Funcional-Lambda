@@ -82,20 +82,19 @@ Passos de execução:
 
 1. Clonar o repositório:
 ```bash
-bash
+```
+```bash
 git clone https://github.com/millenebrj95/Projeto-Programa-Funcional-Lambda.git
 ```
 Ou baixar o projeto em formato .zip e extrair no computador.
 
 2. Acessar a pasta do projeto:
 ```bash
-bash
 cd Projeto-Programa-Funcional-Lambda-main
 ```
 
 3. (Opcional) Criar e ativar ambiente virtual:
 ```bash
-bash
 python -m venv venv
 ```
 - Windows: venv\Scripts\activate
@@ -103,7 +102,6 @@ python -m venv venv
 
 4. Instalar dependências:
 ```bash
-bash
 pip install -r requirements.txt
 ```
 
