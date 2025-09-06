@@ -85,8 +85,9 @@ git clone https://github.com/millenebrj95/Projeto-Programa-Funcional-Lambda.git
 Ou baixar o projeto em formato .zip e extrair no computador.
 
 2. Acessar a pasta do projeto:
-<img width="642" height="71" alt="image" src="https://github.com/user-attachments/assets/6c7a1958-0b5d-421b-9df4-02aafe1af3c8" />
+```bash
 cd Projeto-Programa-Funcional-Lambda-main
+```
 
 3. (Opcional) Criar e ativar ambiente virtual:
 <img width="647" height="73" alt="image" src="https://github.com/user-attachments/assets/56991a70-3c38-4d82-baad-a88acb3ccafc" />
