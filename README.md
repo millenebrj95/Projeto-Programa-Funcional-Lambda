@@ -16,13 +16,13 @@ Aplicar os conceitos de **Programação Funcional** em Python, desenvolvendo um 
 - João Eduardo Lúcio Araújo – 291356
 
 ## 👩‍💻 Atribuição de funções:
-Millene Júnior – Responsável pela documentação de requisitos, execução da primeira fase de implementação, realização dos primeiros testes e elaboração do relatório final.
+*Millene Júnior* – Responsável pela documentação de requisitos, execução da primeira fase de implementação, realização dos primeiros testes e elaboração do relatório final.
 
-Herison Daniel – Responsável pela segunda fase de implementação, garantindo a integração das funcionalidades desenvolvidas.
+*Herison Daniel* – Responsável pela segunda fase de implementação, garantindo a integração das funcionalidades desenvolvidas.
 
-Talles de Lima – Responsável pela terceira fase de implementação, focando na codificação e ajustes finais das funcionalidades.
+*Talles de Lima* – Responsável pela terceira fase de implementação, focando na codificação e ajustes finais das funcionalidades.
 
-João Eduardo – Responsável pela segunda fase de testes, verificando a qualidade e o funcionamento das implementações. 
+*João Eduardo* – Responsável pela segunda fase de testes, verificando a qualidade e o funcionamento das implementações. 
 
 ## ⚙️ Requisitos Funcionais
 1. O sistema deve calcular estatísticas de uma lista de números (soma, média, máximo e mínimo).  
