@@ -82,7 +82,6 @@ Passos de execução:
 
 1. Clonar o repositório:
 ```bash
-```
 ```bash
 git clone https://github.com/millenebrj95/Projeto-Programa-Funcional-Lambda.git
 ```
