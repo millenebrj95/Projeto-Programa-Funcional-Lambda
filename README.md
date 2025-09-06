@@ -1,4 +1,4 @@
-# 🐍 Atividade Parcial - Programação Funcional
+<img width="782" height="99" alt="image" src="https://github.com/user-attachments/assets/d36c0bf4-3727-48d8-889a-f45f3bf4970d" /># 🐍 Atividade Parcial - Programação Funcional
 
 Este repositório contém a implementação da **Atividade Parcial N704.25.2 - Programação Funcional**.
 
@@ -70,3 +70,44 @@ Histórico: Último cálculo foi a média = 3.5
 
 ## 🤖 Observação
 Parte do desenvolvimento contou com apoio do **ChatGPT**, usado para estruturar o documento de requisitos, gerar exemplos de código e elaborar este relatório. Todas as respostas foram adaptadas pela equipe.
+
+##🚀 Como executar o projeto
+1. Pré-requisitos
+Python 3.8+ instalado (download aqui)
+Git instalado (opcional)
+
+2. Clonar ou baixar o projeto
+git clone https://github.com/millenebrj95/Projeto-Programa-Funcional-Lambda.git
+
+3. Acessar a pasta do projeto
+cd Projeto-Programa-Funcional-Lambda-main
+
+4. Criar ambiente virtual (opcional)
+python -m venv venv
+
+Ativar:
+Windows: venv\Scripts\activate
+Linux/Mac: source venv/bin/activate
+
+5. Instalar dependências
+pip install -r requirements.txt
+
+6. Executar o programa
+python main.py
+
+7. Testar manualmente no Python
+from main import sum_list, avg_list, max_list, min_list, apply_filter, history_tracker
+
+print(sum_list([1, 2, 3, 4]))                  # 10
+print(avg_list([1, 2, 3, 4]))                  # 2.5
+print(max_list([1, 2, 3, 4]))                  # 4
+print(min_list([1, 2, 3, 4]))                  # 1
+print(apply_filter([1, 2, 3, 4], lambda x: x % 2 == 0))  # [2, 4]
+
+history = history_tracker()
+print(history("Primeira execução"))            # Primeira execução
+print(history("Segunda execução"))             # Segunda execução
+
+
+
+
