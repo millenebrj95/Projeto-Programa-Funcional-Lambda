@@ -114,7 +114,7 @@ python main.py
 ```
 
 
-## 🚀 Exemplos de teste no Python:
+## 💻 Exemplos de teste no Python:
 ```bash
 from main import sum_list, avg_list, max_list, min_list, apply_filter, history_tracker
 
