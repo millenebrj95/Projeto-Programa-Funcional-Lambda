@@ -87,10 +87,12 @@ https://github.com/millenebrj95/Projeto-Programa-Funcional-Lambda.git
 ```
 Ou baixar o projeto em formato .zip e extrair no computador.
 
+
 2. Acessar a pasta do projeto:
 ```bash
 cd Projeto-Programa-Funcional-Lambda-main
 ```
+
 
 3. (Opcional) Criar e ativar ambiente virtual:
 ```bash
@@ -99,20 +101,21 @@ python -m venv venv
 - Windows: venv\Scripts\activate
 - Linux/Mac: source venv/bin/activate
 
+
 4. Instalar dependências:
 ```bash
 pip install -r requirements.txt
 ```
 
+
 5. Executar o programa:
 ```bash
-bash
 python main.py
 ```
 
+
 ## 🚀 Exemplos de teste no Python:
 ```bash
-bash
 from main import sum_list, avg_list, max_list, min_list, apply_filter, history_tracker
 
 print(sum_list([1, 2, 3, 4]))                  # 10
