@@ -71,7 +71,7 @@ Histórico: Último cálculo foi a média = 3.5
 ## 🤖 Observação
 Parte do desenvolvimento contou com apoio do **ChatGPT**, usado para estruturar o documento de requisitos, gerar exemplos de código e elaborar este relatório. Todas as respostas foram adaptadas pela equipe.
 
-##🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 1. Pré-requisitos
 Python 3.8+ instalado (download aqui)
 Git instalado (opcional)
