@@ -9,7 +9,7 @@ Aplicar os conceitos de **Programação Funcional** em Python, desenvolvendo um 
 - **Closures**  
 - **Funções de alta ordem**
 
-## 👩‍💻 Membros da Equipe:
+## 👥 Membros da Equipe:
 - Millene de Souza Júnior – 2326165 
 - Herison Daniel Wanderley – 2315221
 - Talles de Lima Pereira – 2326201
